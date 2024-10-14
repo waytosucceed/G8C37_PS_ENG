@@ -1,0 +1,250 @@
+{
+  "heading": "Future Perfect and Future Perfect Continuous Tense",
+  "topics": [
+    {
+      "heading": "Future Perfect and Future Perfect Continuous Tense",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Fill in the blank appropriately:<br> ______ you ______ (still negotiate) with the investors when the new market report comes out?",
+          "options": [
+            "Will; still negotiate",
+            "Will; still be negotiating",
+            "Are; still negotiating",
+            "Will; have negotiated"
+          ],
+          "answer": 1,
+          "explanation": "This question refers to an ongoing action (negotiating) that will be in progress when a future event occurs. The correct structure for future continuous tense in interrogative form is 'Will + subject + be + verb (-ing).' The correct question is: Will you still be negotiating with the investors when the new market report comes out?"
+        },
+        {
+          "questionNo": 2,
+          "question": "Fill in the blank appropriately:<br> They ___ the new policy until the board approves it.",
+          "options": [
+            "will not be implementing",
+            "will not implemented",
+            "will not implement",
+            "will have not implemented"
+          ],
+          "answer": 2,
+          "explanation": "The sentence describes a future event that will not happen until another event (board approval) occurs. The correct form is simple future negative: will not implement."
+        },
+        {
+          "questionNo": 3,
+          "question": "Fill in the blank appropriately:<br> ___ you ___ the final report before the end of the week?",
+          "options": [
+            "Will; submit",
+            "Will; submitting",
+            "Will; have submitted",
+            "Will; submits"
+          ],
+          "answer": 0,
+          "explanation": "This is a simple future interrogative sentence. The correct form is will + subject + base form of the verb. 'Will you submit' asks if the action will take place in the future."
+        },
+        {
+          "questionNo": 4,
+          "question": "Fill in the blank appropriately:<br> At this time tomorrow, they ___ the final preparations for the event.",
+          "options": [
+            "will making",
+            "will be making",
+            "will have made",
+            "will make"
+          ],
+          "answer": 1,
+          "explanation": "The sentence describes an action that will be in progress at a specific time in the future. The correct form is future continuous tense: will be making."
+        },
+        {
+          "questionNo": 5,
+          "question": "Fill in the blanks appropriately:<br> She ___ the meeting at 5 PM because she has another engagement.",
+          "options": [
+            "will not be attending",
+            "will not attend",
+            "will have not attending",
+            "will be not attending"
+          ],
+          "answer": 0,
+          "explanation": "The sentence suggests an action will not be in progress at a specific time in the future. The correct form is future continuous negative: will not be attending."
+        },
+        {
+          "questionNo": 6,
+          "question": "Fill in the blank appropriately:<br> ___ they ___ the new software when the project starts next month?",
+          "options": [
+            "Will; be testing",
+            "Will; testing",
+            "Will; test",
+            "Will; have tested"
+          ],
+          "answer": 0,
+          "explanation": "This is an interrogative future continuous sentence. The correct form is will + subject + be + verb(-ing)."
+        },
+        {
+          "questionNo": 7,
+          "question": "Fill in the blanks appropriately:<br> They ___ the quarterly reports during the meeting tomorrow.",
+          "options": [
+            "will not be discussing",
+            "will not discuss",
+            "will not be discussed",
+            "will not discussing"
+          ],
+          "answer": 0,
+          "explanation": "The sentence focuses on an action that will not be in progress at a specific time in the future. The correct form is future continuous negative: 'will not be discussing'."
+        },
+        {
+          "questionNo": 8,
+          "question": "Identify the tense in the following sentence:<br> They will finish the project by next week.",
+          "options": [
+            "Present continuous",
+            "Simple future",
+            "Future perfect",
+            "Future continuous"
+          ],
+          "answer": 1,
+          "explanation": "The sentence describes a future action that will occur at a specific time. The verb construction 'will + base verb' is the structure for simple future tense."
+        },
+        {
+          "questionNo": 9,
+          "question": "Identify the tense in the following sentence:<br> By this time tomorrow, she will be driving to the airport.",
+          "options": [
+            "Present perfect",
+            "Future perfect",
+            "Simple future",
+            "Future continuous"
+          ],
+          "answer": 3,
+          "explanation": "The sentence describes an action that will be in progress at a specific time in the future. The verb construction 'will be + verb (-ing)' is the structure for future continuous tense."
+        },
+        {
+          "questionNo": 10,
+          "question": "Identify the tense in the following sentence:<br> They will be meeting with the new manager at 3 PM tomorrow.",
+          "options": [
+            "Present continuous",
+            "Future continuous",
+            "Past continuous",
+            "Simple future"
+          ],
+          "answer": 1,
+          "explanation": "The sentence indicates an action that will be happening at a specific time in the future. The structure 'will be + verb (-ing)' is used for future continuous tense."
+        },
+        {
+          "questionNo": 11,
+          "question": "Identify the tense in the following sentence:<br> We will visit the museum next Saturday.",
+          "options": [
+            "Present continuous",
+            "Future continuous",
+            "Simple future",
+            "Present perfect"
+          ],
+          "answer": 2,
+          "explanation": "The sentence describes an action that will happen in the future. The construction 'will + base verb' is a key indicator of simple future tense."
+        },
+        {
+          "questionNo": 12,
+          "question": "Identify the tense in the following sentence:<br> This time next year, I will be studying abroad.",
+          "options": [
+            "Future perfect",
+            "Simple future",
+            "Present continuous",
+            "Future continuous"
+          ],
+          "answer": 3,
+          "explanation": "The sentence describes an ongoing action that will be happening at a specific future time. The structure 'will be + verb (-ing)' signals future continuous tense."
+        },
+        {
+          "questionNo": 13,
+          "question": "Spot the error in the following question:<br> She will be finish the project by tomorrow afternoon.",
+          "options": [
+            "will be finish",
+            "by tomorrow afternoon",
+            "the project",
+            "She"
+          ],
+          "answer": 0,
+          "explanation": "The error is in the verb form. In simple future tense, the correct structure is 'will + base verb.' The correct sentence should be: 'She will finish the project by tomorrow afternoon.'"
+        },
+        {
+          "questionNo": 14,
+          "question": "Spot the error in the following question:<br> We shall be going to the concert tomorrow.",
+          "options": [
+            "We",
+            "shall be going",
+            "to the concert",
+            "tomorrow"
+          ],
+          "answer": 1,
+          "explanation": "The phrase 'shall be going' is incorrect for simple future tense. The correct sentence should be: 'We shall go to the concert tomorrow,' which is simple future tense."
+        },
+        {
+          "questionNo": 15,
+          "question": "Spot the error in the following question:<br> I will call you once I will reach home.",
+          "options": [
+            "I",
+            "will call",
+            "will reach",
+            "once"
+          ],
+          "answer": 2,
+          "explanation": "The error lies in the second clause. The correct sentence is: 'I will call you once I reach home.'"
+        },
+        {
+          "questionNo": 16,
+          "question": "Spot the error in the following question:<br> At this time tomorrow, I will be attend the meeting.",
+          "options": [
+            "will be attend",
+            "at this time tomorrow",
+            "the meeting",
+            "I"
+          ],
+          "answer": 0,
+          "explanation": "The error is in the verb form. The correct sentence should be: 'I will be attending the meeting.'"
+        },
+        {
+          "questionNo": 17,
+          "question": "Choose the correct form of verb in the following sentence:<br> At this time tomorrow, they _______ (fly) to New York.",
+          "options": [
+            "will be flying",
+            "will have flown",
+            "are flying",
+            "have flown"
+          ],
+          "answer": 0,
+          "explanation": "The sentence indicates an action that will be in progress at a specific time in the future. The correct form is future continuous tense: will be flying."
+        },
+        {
+          "questionNo": 18,
+          "question": "Choose the correct form of verb in the following sentence:<br> ______ you ______ (wait) for her when she arrives at the station?",
+          "options": [
+            "Will; wait",
+            "Will; be waiting",
+            "Are; waiting",
+            "Will; have waited"
+          ],
+          "answer": 1,
+          "explanation": "The question refers to an action that will be in progress at a specific time in the future. The correct structure for future continuous tense in interrogative sentences is 'Will + subject + be + verb (-ing).' The correct question is: Will you be waiting for her when she arrives?"
+        },
+        {
+          "questionNo": 19,
+          "question": "Choose the correct form of verb in the following sentence:<br> ______ she ______ (not work) on the new project by this time tomorrow?",
+          "options": [
+            "Will; not work",
+            "Will; not be working",
+            "Is; not working",
+            "Will; not have worked"
+          ],
+          "answer": 1,
+          "explanation": "The question refers to an action that will be ongoing at a specific time tomorrow. The correct form for future continuous tense in interrogative negative sentences is 'Will + subject + not + be + verb (-ing).' The correct question is: Will she not be working on the new project by this time tomorrow?"
+        },
+        {
+          "questionNo": 20,
+          "question": "Choose the correct form of verb in the following sentence:<br> ______ he ______ (agree) to the terms of the contract if we revise the proposal?",
+          "options": [
+            "Will; agree",
+            "Will; be agreeing",
+            "Is; agreeing",
+            "Will; have agreed"
+          ],
+          "answer": 0,
+          "explanation": "The sentence is asking about a possible future action (agreeing to the terms) based on a condition. The correct structure for simple future tense in interrogative form is 'Will + subject + base verb.' The correct question is: Will he agree to the terms of the contract if we revise the proposal?"
+        }
+      ]
+    }
+  ]
+}
